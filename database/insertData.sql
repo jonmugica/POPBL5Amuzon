@@ -12,7 +12,7 @@ INSERT INTO vehicles values (5,false,'parking 5',0.00);
 INSERT INTO category values ('Video games');
 INSERT INTO category values ('Cinema, TV and Music');
 
-INSERT INTO category values ('Home, Garden');
+INSERT INTO category values ('Furniture');
 INSERT INTO category values ('Books');
 
 INSERT INTO category values ('Electronics');
@@ -32,9 +32,8 @@ INSERT INTO product values (13,'Cinema, TV and Music','Megalodon','250',14.99,1)
 INSERT INTO product values (14,'Cinema, TV and Music','Rounders','250',14.95,1);
 INSERT INTO product values (15,'Cinema, TV and Music','AC-DC cd','250',17.50,1);
 
-INSERT INTO product values (21,'Home, Garden','Washing machine','220',321.66,2);
-INSERT INTO product values (22,'Home, Garden','Refrigerator','220',47.99,2);
-INSERT INTO product values (23,'Home, Garden','Mower','220',500,2);
+INSERT INTO product values (21,'Furniture','Furniture for TV','220',134.66,2);
+INSERT INTO product values (22,'Furniture','Hoi from library','220',499.99,2);
 INSERT INTO product values (31,'Books','The Assassination of Pythagoras','220',18.90,2);
 INSERT INTO product values (32,'Books','The infinite joke','220',27.99,2);
 INSERT INTO product values (33,'Books','Guinness world records 2019','220',24.60,2);
